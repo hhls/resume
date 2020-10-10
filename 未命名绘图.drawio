@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T07:29:12.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="W8c2fVcR6QONaf4zEA_4" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T07:30:04.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KizcHwHbWENwDcAC9pid" version="13.7.9" type="github">
   <diagram id="S919QCRbHMr00ycO68Or" name="第 1 页">
     <mxGraphModel dx="1149" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qa5mncQZBvzE5itVr-Zy-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="230" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Qa5mncQZBvzE5itVr-Zy-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qa5mncQZBvzE5itVr-Zy-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Qa5mncQZBvzE5itVr-Zy-4" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="60" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
